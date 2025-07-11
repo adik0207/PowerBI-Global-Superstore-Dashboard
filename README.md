@@ -14,7 +14,7 @@ This interactive Power BI dashboard analyzes Global Superstore sales data to del
 - Excel (data cleaning)
 
 ## 📷 Dashboard Preview:
-![Dashboard Preview](Global_Superstore_Sales_Dashboard.pdf)
+![Dashboard Preview](Global Superstore Sales Dashboard.pdf)
 
 ---
 
